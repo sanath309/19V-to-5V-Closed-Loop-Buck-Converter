@@ -1,0 +1,2 @@
+# 19V to 5V Closed-Loop Buck Converter 
+19V to 5V Closed-Loop Buck Converter | LTspice  Designed and simulated a 50 kHz PWM-controlled buck converter using an NE555 timer, MOSFET switching stage, LC output filter, and op-amp-based voltage feedback. The feedback loop senses the 5V output and adjusts the 555 control voltage (CV) to regulate the output under changing conditions.  Tools: LTspice, NE555, PWM, MOSFET, Op-Amp, DC-DC Buck Converter, Feedback Control, Power Electronics.
